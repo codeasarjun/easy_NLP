@@ -9,7 +9,7 @@
    - Stemming and Lemmatization
    - Part-of-speech (POS) tagging
 
-3. Text Representation:
+3. <a href='https://github.com/codeasarjun/easy_NLP/blob/main/text_representation.ipynb'>Text Representation:
    - Bag-of-Words (BoW) model
    - TF-IDF (Term Frequency-Inverse Document Frequency)
    - Word Embeddings (Word2Vec, GloVe, etc.)
