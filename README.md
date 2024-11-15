@@ -1,9 +1,9 @@
-1. <a href='https://github.com/codeasarjun/data_science-/blob/main/NLP/pr_NLP_intro.ipynb'>Introduction to NLP:
+1. <a href='https://github.com/codeasarjun/easy_NLP/blob/main/intro.ipynb'>Introduction to NLP:
    - Definition of NLP
    - Importance and applications of NLP
    - Evolution and history of NLP
 
-2. <a href='https://github.com/codeasarjun/data_science-/blob/main/NLP/pr_NLP_text_preprocessing.ipynb'>Text Preprocessing:
+2. <a href='https://github.com/codeasarjun/easy_NLP/blob/main/text_preprocessing.ipynb'>Text Preprocessing:
    - Tokenization
    - Stopword removal
    - Stemming and Lemmatization
